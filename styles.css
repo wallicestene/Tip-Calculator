@@ -1,0 +1,35 @@
+body{
+    background: #5c7ebd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    background: #102754;
+    max-width: 350px;
+    margin: 0 auto;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+input{
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    height: 25px;
+}
+button{
+    border-radius: 30px;
+    border: none;
+    height: 30px;
+    width: 30px;
+    background: bisque;
+}
+.btn{
+    display: inline-flex;
+}
+#numberofpeople{
+    padding: 7px 10px ;
+    font-weight: bolder;
+}
+#totalperperson{
+    font-weight: bolder;
+}
